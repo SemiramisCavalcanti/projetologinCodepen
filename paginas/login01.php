@@ -9,23 +9,8 @@
 
     </head>
 
-    <body>
-        
-        BUGANDO A PÁGINA 1 !!!!!
-        
-        <div class="login">
-            <h1>Login</h1>
-            <form method="post">
-                <input type="text" name="u" placeholder="Username" required="required" />
-                <input type="password" name="p" placeholder="Password" required="required" />
-                <button type="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
-            </form>
-            <br />
-            <div class="text-center">
-            <a href="../index.php" class="mt-2"><button type="submit" class="btn btn-primary btn-sm">Home</button></a>      
-            </div>
-        </div>
-        
+    <h1>hello wold!!!!!!!!!</h1>
+        fbfffgerg
         
     </body>
     
